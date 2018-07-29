@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.17.4-gentoo Kernel Configuration
+# Linux/x86 4.17.11-gentoo Kernel Configuration
 #
 
 #
@@ -6092,7 +6092,6 @@ CONFIG_CRYPTO_DES=m
 CONFIG_CRYPTO_FCRYPT=m
 CONFIG_CRYPTO_KHAZAD=m
 CONFIG_CRYPTO_SALSA20=m
-# CONFIG_CRYPTO_SALSA20_X86_64 is not set
 # CONFIG_CRYPTO_CHACHA20 is not set
 # CONFIG_CRYPTO_CHACHA20_X86_64 is not set
 CONFIG_CRYPTO_SEED=m
